@@ -6,6 +6,7 @@ I, Anna Dudenko, fully aknowledge the consequences of academic misconduct.
 During my work, I:
 
 1. Did not receive any help
+2. Consulted following materials: https://en.wikipedia.org/wiki/Markov_chain (for 3b1b1a)
 
 # 3b1b1a: Simple Text Generation Task
 
